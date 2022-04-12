@@ -1,1 +1,11 @@
 # aplikasi_pelamar
+![image](https://user-images.githubusercontent.com/97661073/162898389-3ac5c350-9094-4445-abf3-bce2369fa6f1.png)
+![image](https://user-images.githubusercontent.com/97661073/162898484-f072df2a-a520-4d54-ba1e-a68188740639.png)
+![image](https://user-images.githubusercontent.com/97661073/162898536-9d54e3e0-28c6-4e31-9551-8413ef4ff835.png)
+![image](https://user-images.githubusercontent.com/97661073/162898589-f6bab531-c72a-4130-82d6-64139fa3e2bf.png)
+![image](https://user-images.githubusercontent.com/97661073/162898625-d34ae63e-884f-48ed-ba28-651c063fbb73.png)
+![image](https://user-images.githubusercontent.com/97661073/162898662-ee4c2005-7de7-4fca-ac6d-d32b17aaab32.png)
+![image](https://user-images.githubusercontent.com/97661073/162898706-9b1917ab-d52a-487c-80a7-bde0c452367a.png)
+![image](https://user-images.githubusercontent.com/97661073/162898771-21359bf9-1cb1-41ad-a451-bafe4b55ff4f.png)
+![image](https://user-images.githubusercontent.com/97661073/162898817-5ab7576e-206f-4015-a64c-aecf4e8c43de.png)
+![image](https://user-images.githubusercontent.com/97661073/162898853-c53eec62-1289-4641-8e9d-25862c957b6a.png)
